@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene la documentación y evidencias del **Módulo 3: Reconocimiento Pasivo y Activo** del laboratorio de seguridad **LASEC**.  
+Este repositorio contiene la documentación y evidencias del **Módulo 3: Reconocimiento Pasivo y Activo**.  
 El objetivo de esta actividad fue analizar cómo la información pública puede ser descubierta mediante técnicas de **OSINT, Google Dorks y herramientas de análisis de infraestructura**.
 
 ---
