@@ -83,7 +83,8 @@ El reconocimiento o análisis de sistemas **sin autorización del propietario** 
 El objetivo de este trabajo es **comprender cómo se expone la información en internet y fomentar prácticas responsables de ciberseguridad**.
 
 ## Autor
-Adolfo Mandujano Lara
-Ingeniería en Robótica y Mecatrónica
-Universidad Autónoma de Zacatecas
+
+Adolfo Mandujano Lara  
+Ingeniería en Robótica y Mecatrónica  
+Universidad Autónoma de Zacatecas  
 LASEC Techonolgy System| Intern - ComputerVision
