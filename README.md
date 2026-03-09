@@ -69,7 +69,7 @@ Comprender cómo los atacantes pueden identificar información expuesta pública
 
 ## Uso Ético
 
-Este proyecto fue realizado con **fines exclusivamente académicos** dentro del laboratorio de seguridad **LASEC**.
+Este proyecto fue realizado con **fines exclusivamente académicos**.
 
 Las técnicas utilizadas en este repositorio, como **Google Dorks, análisis OSINT y reconocimiento de infraestructura**, deben aplicarse únicamente en entornos autorizados, por ejemplo:
 
